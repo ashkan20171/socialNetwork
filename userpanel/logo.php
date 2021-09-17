@@ -1,0 +1,1 @@
+<a href="#" class="logo" >Social<span>NET </span>&nbsp;&nbsp;&nbsp;&nbsp;موجودی حساب شما <?php echo get_mojoodi($_SESSION['useremail']); ?> ریال</a>
